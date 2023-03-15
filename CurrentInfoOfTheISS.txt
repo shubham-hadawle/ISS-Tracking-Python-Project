@@ -1,0 +1,15 @@
+Number of Astronauts currently on board: 10
+
+Sergey Prokopyev
+Dmitry Petelin
+Frank Rubio
+Fei Junlong
+Deng Qingming
+Zhang Lu
+Stephen Bowen
+Warren Hoburg
+Sultan Alneyadi
+Andrey Fedyaev
+
+
+Your current Latitude & Longitudes are: [19.0728, 72.8826]
